@@ -1,5 +1,4 @@
-# notes
-<h2>Data Object Example<h2>
+# Data Object Example
 <p>
 <p> NOTES "id":{"$oid":"591c8dd1fc13ae733100061d"} is the MongoDB Object ID</p>
 {"id":{"$oid":"591c8dd1fc13ae7331000618"},</br>
